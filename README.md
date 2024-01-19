@@ -1,4 +1,4 @@
--Hi My name is Semere Mesfin Gebresilassie
+-Hi my name is Semere Mesfin Gebresilassie
 
 -I'm Passionate about applying Data Science and Machine Learning to revolutionize Pavement and Transport Engineering.
 
